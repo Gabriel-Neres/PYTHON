@@ -1,0 +1,3 @@
+# Registro de notas
+Isto é um projeto desenvolvido em python(Interface gráfica : TKINTER) e sqlite3. Tema é: "Registro de Notas pessoais." Propósito: Trabalho para a faculdade.
+Ele é baseado no sitemas de notas da Estacio. Forma de fuicionamento: AV1 (AVALIAÇÃO 1), AV2 (AVALIAÇÃO 2) e AVD (AVALIAÇÃO DIGITAL) - Notas que compõe a média. AV3 e AVDS notas que são usadas para substituirem as notas principais inferiores. Exemplo: AV3 é para substituir a AV1 ou a nota AV2, sendo assim a AV3 precisa ser maior que uma delas para ser substituída, porém se as duas forem inferiores a nota tirada na AV3 prevalece a maior nota entre AV1 e AV2. No caso da AVDS, só subistitui a se a nota da AVD for menor.
